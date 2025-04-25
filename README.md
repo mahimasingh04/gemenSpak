@@ -2,7 +2,7 @@
 # Medium-like Blogging Platform
 
 A simple blogging website that allows users to create, update, and delete posts. Built with modern web technologies for optimal performance and developer experience.
-
+Code is in master branch
 ## Tech Stack
 
 - **Frontend**: React + Vite
